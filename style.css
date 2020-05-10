@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.container{
+	padding: 20px;
+	height: 300px;
+	width: 300px;
+	margin: 0 auto;
+	background-color: #DDD;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+}
+
+.content-item{
+	padding: 20px 0px;
+}
+
+#add-item{
+	padding: 5px;
+}
+
+#array-inputed{
+	color: #285238;
+}
+
+#result{
+	color: #93032E;
+}
+
+button{
+	padding: 5px;
+}
